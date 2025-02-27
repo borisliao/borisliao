@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-I am a software developer with over 3 years of experience. I specialize in full stack development, designing micro-service infrastructure for individual retirement accounts (IRA) at Vanguard.
+I’m a Full-Stack React Developer with over 3 years of experience building web applications for IRAs at Vanguard. I specialize in React, TypeScript, and AWS, designing performant and scalable front-end experiences while integrating complex backend systems.
 
-During my time at Vanguard, I developed a strong reputation for creating thorough documentation, earning the nickname 'team historian' for my attention to detail. Because of my attention to detail, I spend most of my time building out components libraries in Storybook and architecting the frontend based on upcoming features coming down the pipeline.
+At Vanguard, I developed features like a charity search auto complete that facilitates over $200,000 in daily donations and an IRS required minimum distribution frontend serving 1,300+ clients per day. I also led a team of three to implement a multi-step questionnaire using Storybook and Playwright, achieving 100% test coverage across 17 flows.
+
+I’m passionate about building component libraries, optimizing front-end performance, and designing intuitive user experiences. I thrive in environments where I can collaborate with designers and product teams to align technical execution with business goals.
 
 You're looking at my personal page, which I have built cool projects such as Music Box. Check it out below!
