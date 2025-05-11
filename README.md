@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A full-stack developer at Vanguard that builds sites, tools and automations that manage IRA accounts. (ex. [inherited-rmd-calculator](inherited-rmd-calculator.web.vanguard.com), [rmd@vanguard](https://rmd.web.vanguard.com/))
+A full-stack developer at Vanguard that builds sites, tools and automations that manage IRA accounts. (ex. [inherited-rmd-calculator](https://inherited-rmd-calculator.web.vanguard.com/), [rmd@vanguard](https://rmd.web.vanguard.com/))
 
 As a generalist, I pick up frontend, backend, devops, or product roles as needed. I find shortcuts, build internal tools, spot process bloat, tech debt, and misaligned incentives from a mile away.
 
