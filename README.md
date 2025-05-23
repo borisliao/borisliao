@@ -12,4 +12,4 @@ I value: progress, autonomy, building things that matter. I thrive in environmen
 
 Love to: 3d print, explore GenAI (Cursor, v0, bolt, Claude), [city photography](https://borisliao.github.io/hdr/), foodie, biking.
 
-Favorite newsletters: [pointer.io](https://pointer.io/), [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
+Favorite resources: [pointer.io](https://pointer.io/), [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/), [The Diary Of A CEO](https://www.youtube.com/@TheDiaryOfACEO)
